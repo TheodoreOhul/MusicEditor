@@ -1,0 +1,14 @@
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\bin\Debug\packonfig-test.exe.config
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\bin\Debug\packonfig-test.exe
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\bin\Debug\packonfig-test.pdb
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test.csprojResolveAssemblyReference.cache
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\MainWindow.g.cs
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\App.g.cs
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test_MarkupCompile.cache
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test_MarkupCompile.lref
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\MainWindow.baml
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test.g.resources
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig_test.Properties.Resources.resources
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test.csproj.GenerateResource.Cache
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test.exe
+c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test.pdb
