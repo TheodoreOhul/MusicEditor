@@ -12,3 +12,6 @@ c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-te
 c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test.csproj.GenerateResource.Cache
 c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test.exe
 c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-test\obj\Debug\packonfig-test.pdb
+D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\packonfig-test.exe.config
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test.exe
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test.pdb
