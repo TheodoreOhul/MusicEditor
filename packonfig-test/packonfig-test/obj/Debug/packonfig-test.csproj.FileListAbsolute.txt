@@ -15,3 +15,14 @@ c:\users\logov\documents\visual studio 2015\Projects\packonfig-test\packonfig-te
 D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\packonfig-test.exe.config
 D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test.exe
 D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test.pdb
+D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\packonfig-test.exe
+D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\packonfig-test.pdb
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test.csprojResolveAssemblyReference.cache
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\MainWindow.g.cs
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\App.g.cs
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test_MarkupCompile.cache
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test_MarkupCompile.lref
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\MainWindow.baml
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test.g.resources
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig_test.Properties.Resources.resources
+D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test.csproj.GenerateResource.Cache
