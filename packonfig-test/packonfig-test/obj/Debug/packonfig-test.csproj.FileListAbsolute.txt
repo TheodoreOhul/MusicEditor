@@ -28,3 +28,7 @@ D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig_test.Properties
 D:\GitHub\test\packonfig-test\packonfig-test\obj\Debug\packonfig-test.csproj.GenerateResource.Cache
 D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\StyleCop.CSharp.dll
 D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\StyleCop.dll
+D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\packonfig-test.exe.CodeAnalysisLog.xml
+D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\packonfig-test.exe.lastcodeanalysissucceeded
+D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\GitHub\test\packonfig-test\packonfig-test\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
