@@ -1,0 +1,9 @@
+###
+# MusicEditor ignore
+###
+
+bin
+obj
+packages
+
+StyleCop.Cache
